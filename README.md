@@ -7,7 +7,7 @@
   <img width="41%" height="295px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDuartte&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LucasDuartte&theme=gotham)
+![Snake animation](https://github.com/dfilitto/dfilitto/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=LucasDuartte&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
